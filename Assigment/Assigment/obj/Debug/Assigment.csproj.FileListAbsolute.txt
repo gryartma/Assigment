@@ -1,0 +1,6 @@
+c:\users\naruto\documents\visual studio 2015\Projects\Assigment\Assigment\bin\Debug\Assigment.exe.config
+c:\users\naruto\documents\visual studio 2015\Projects\Assigment\Assigment\bin\Debug\Assigment.exe
+c:\users\naruto\documents\visual studio 2015\Projects\Assigment\Assigment\bin\Debug\Assigment.pdb
+c:\users\naruto\documents\visual studio 2015\Projects\Assigment\Assigment\obj\Debug\Assigment.csprojResolveAssemblyReference.cache
+c:\users\naruto\documents\visual studio 2015\Projects\Assigment\Assigment\obj\Debug\Assigment.exe
+c:\users\naruto\documents\visual studio 2015\Projects\Assigment\Assigment\obj\Debug\Assigment.pdb
